@@ -17,7 +17,7 @@ DB_SIZES = {
     "S": 0
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
-PAGES_TITLE = ["DynWeb|Home", "Indexes", "Tree"];
+PAGES_TITLE = ["Chandroth House", "Indexes", "Tree"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "sources.html", "medias.html", "places.html", "address.html"];
 PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Sources", "Media", "Places", "Addresses"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
